@@ -30,7 +30,7 @@
 
 <li><code>pip install bs4</code></li>
 
-<li><code>rm -rf rahulrbc </code></li>
+<li><code>rm -rf C.NERD </code></li>
 
 <li><code>git clone --depth=1 https://github.com/PROX-GOD/C.NERD</code></li>
 
