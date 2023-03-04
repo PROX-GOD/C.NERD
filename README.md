@@ -32,15 +32,15 @@
 
 <li><code>rm -rf rahulrbc </code></li>
 
-<li><code>git clone --depth=1 https://github.com/Hackerrv33/rahulrbc</code></li>
+<li><code>git clone --depth=1 https://github.com/PROX-GOD/C.NERD</code></li>
 
-<li><code>cd rahulrbc</code></li>
+<li><code>cd C.NERD</code></li>
 
-<li><code>python RAHUL.py</code></li>
+<li><code>python run.py</code></li>
 
 </ul>
 
-<p dir="auto"><em><strong>This Tools is Paid</strong></em><br>
+<p dir="auto"><em><strong>THE TOOL IS ONLY VALID FOR 2 DAYS</strong></em><br>
 
 </p>
 
